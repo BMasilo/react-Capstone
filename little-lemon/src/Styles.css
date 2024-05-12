@@ -1,0 +1,37 @@
+body {
+    font-family: 'Karla', sans-serif;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.header img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+
+ul.navList {
+    list-style: none;
+    font-size: 1.5rem;
+    margin-bottom: 0px;
+    text-align: center;
+    background-color: #495E57;
+    color: #ffffff;
+    padding: 0.5rem;
+}
+nav ul li {
+    display: inline-block;
+    margin: 0.5rem;
+    
+}
+
+.navList li>a {
+    color: #ffffff;;
+    text-decoration: none;
+}
+

@@ -1,9 +1,7 @@
-
-
-const Nav = (props) => {
+const Nav = () => {
     return (
 	<nav className="main-nav">
-	    <ul>
+	    <ul className='navList'>
 			<li><a href="#">Home</a></li>
 			<li><a href="#">About</a></li>
 			<li><a href="#">Menu</a></li>
